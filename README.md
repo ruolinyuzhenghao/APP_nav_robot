@@ -13,7 +13,7 @@
 ## 运行
 ### CLEAN_POOL 
 ```
-roslaunch rosbridge_server rosbridge_websocket.launche
+roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 ### POOL_CLEANMan  
 修改为可连接的ip地址即可
