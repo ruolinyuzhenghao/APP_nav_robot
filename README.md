@@ -19,3 +19,5 @@ roslaunch rosbridge_server rosbridge_websocket.launch
 修改为可连接的ip地址即可
 ## 个人教程
 Qt配置安卓：https://www.yuque.com/g/ruolinyuzhenghao/xlhh7p/drssvthbvdx5uddp/collaborator/join?token=x2fD53UGcXOSNnPz&source=doc_collaborator#
+## 引用声明
+本项目空间风格引用地址为[qt-material-widgets](https://gitcode.com/laserpants/qt-material-widgets.git)
