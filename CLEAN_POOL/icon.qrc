@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/icons">
+        <file>icons/toggle/svg/production/ic_check_box_outline_blank_24px.svg</file>
+        <file>icons/toggle/svg/production/ic_check_box_24px.svg</file>
+    </qresource>
+</RCC>

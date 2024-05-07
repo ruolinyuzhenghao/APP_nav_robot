@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/base_pic">
+        <file>rec/SEVO_white.png</file>
+        <file>rec/whitebackpic.jpg</file>
+        <file>rec/boat.png</file>
+        <file>rec/water.gif</file>
+        <file>rec/rov.png</file>
+        <file>rec/cabin.png</file>
+        <file>rec/em.png</file>
+        <file>rec/battery_warn.jpg</file>
+        <file>rec/dianliang_warn.png</file>
+        <file>rec/robot_auto.png</file>
+        <file>rec/robot_auto.jpeg</file>
+        <file>rec/shoudong.png</file>
+        <file>rec/zidingyi.png</file>
+        <file>rec/robot1.png</file>
+    </qresource>
+</RCC>

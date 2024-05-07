@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/whitebackpic.jpg</file>
+        <file>rec/rov.png</file>
+        <file>rec/em.png</file>
+        <file>rec/boat.png</file>
+        <file>rec/dianliu_2.png</file>
+    </qresource>
+</RCC>
